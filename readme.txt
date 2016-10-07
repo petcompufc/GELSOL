@@ -1,13 +1,13 @@
 
 
 
-		 ██████╗ ███████╗██╗     ███████╗ ██████╗ ██╗     
-		██╔════╝ ██╔════╝██║     ██╔════╝██╔═══██╗██║     
-		██║  ███╗█████╗  ██║     ███████╗██║   ██║██║     
-		██║   ██║██╔══╝  ██║     ╚════██║██║   ██║██║     
-		╚██████╔╝███████╗███████╗███████║╚██████╔╝███████╗
-		 ╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚══════╝
-		 - Grupo de Estudo em Linux e Software Livre -
+			 ██████╗ ███████╗██╗     ███████╗ ██████╗ ██╗     
+			██╔════╝ ██╔════╝██║     ██╔════╝██╔═══██╗██║     
+			██║  ███╗█████╗  ██║     ███████╗██║   ██║██║     
+			██║   ██║██╔══╝  ██║     ╚════██║██║   ██║██║     
+			╚██████╔╝███████╗███████╗███████║╚██████╔╝███████╗
+			 ╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚══════╝
+			 - Grupo de Estudo em Linux e Software Livre -
 
 
      Bem-vindos ao repositório do GELSoL - Grupo de Estudo em Linux e Software Livre!
@@ -30,3 +30,14 @@
 
 	Listagem de Tutoriais:
 		1. Introdução à Programação em Linux Shell 
+
+
+	--
+		-- PET Computação UFC --
+	Para mais informações, entre em contato.
+
+
+	www.petcomp.ufc.br/
+	E-mail: petcomputacaoufc@gmail.com
+	Facebook: facebook.com/PETComputacaoUFC/
+
