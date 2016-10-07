@@ -1,13 +1,13 @@
 
 
 
-	 ██████╗ ███████╗██╗     ███████╗ ██████╗ ██╗     
-	██╔════╝ ██╔════╝██║     ██╔════╝██╔═══██╗██║     
-	██║  ███╗█████╗  ██║     ███████╗██║   ██║██║     
-	██║   ██║██╔══╝  ██║     ╚════██║██║   ██║██║     
-	╚██████╔╝███████╗███████╗███████║╚██████╔╝███████╗
-	 ╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚══════╝
-	 - Grupo de Estudo em Linux e Software Livre -
+		 ██████╗ ███████╗██╗     ███████╗ ██████╗ ██╗     
+		██╔════╝ ██╔════╝██║     ██╔════╝██╔═══██╗██║     
+		██║  ███╗█████╗  ██║     ███████╗██║   ██║██║     
+		██║   ██║██╔══╝  ██║     ╚════██║██║   ██║██║     
+		╚██████╔╝███████╗███████╗███████║╚██████╔╝███████╗
+		 ╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚══════╝
+		 - Grupo de Estudo em Linux e Software Livre -
 
 
      Bem-vindos ao repositório do GELSoL - Grupo de Estudo em Linux e Software Livre!
@@ -22,3 +22,11 @@
 	-> shellScripting_Tuto/
 	   |--> 01 - Introdução à Programação Shell/
 	   |--> 02 - Estruturas de Linguagem para Shell/
+
+
+     - TUTORIAIS -
+	
+	Para acessar nossos tutoriais e outros materiais didáticos, utilize a aba "Wiki", no topo da página inicial do repositório. Lá encontrará diversos tutoriais sobre Linux e bastante material sobre o movimento Software Livre. Boa parte dos códigos que são explicados nos tutoriais estão upados neste mesmo repositório, em pastas cujo nome seja respectivo ao tutorial que o relaciona.
+
+	Listagem de Tutoriais:
+		1. Introdução à Programação em Linux Shell 
